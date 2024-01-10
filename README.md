@@ -1,4 +1,5 @@
 Ez leak mioclient.me
 
 
-![alt text](https://media.discordapp.net/attachments/948645855471206480/1021555272851914782/mioclientLogoBig_offsetFix.png?width=427&height=427)
+![image](https://github.com/SoftWaren1/mio-client/assets/150448678/816734b9-f8f1-4a21-bb32-358f23e23904)
+
