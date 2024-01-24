@@ -116,3 +116,5 @@ public class DiscordRPC extends Module {
         rpc.Discord_Shutdown();
     }
 }
+
+How to turn discord RPC so I can run this on pojav launcher 
